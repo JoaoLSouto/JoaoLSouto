@@ -14,7 +14,7 @@ Machine Learning e Data Science. <br>
 <br>
 
 ### Contato:
-#### e-mail: Contato.joaolsouto@gmail.com
+#### e-mail: contato.joaolsouto@gmail.com
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-souto/)
 <br>
