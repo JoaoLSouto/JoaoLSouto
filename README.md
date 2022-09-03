@@ -3,8 +3,6 @@ Atualmente no meu quarto semestre de Análise e Desenvolvimento de Sistemas, com
 Em meus estudos e práticas autonomas codifico em especifico na linguagem Pyhton, estudando e aperfeiçoando minhas habilidades em Web Scraping (Crawler),
 Machine Learning e Data Science. <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
-
 ### Skills
 ![pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -17,4 +15,9 @@ Machine Learning e Data Science. <br>
 
 ### Contato:
 #### Gmail: Contato.joaolsouto@gmail.com
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-souto/)<br>
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-souto/)
+<br>
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
