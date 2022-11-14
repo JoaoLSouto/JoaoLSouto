@@ -22,3 +22,6 @@ Machine Learning e Data Science. <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoLSouto)](https://github.com/JoaoLSouto/github-profile-trophy) -->
+
