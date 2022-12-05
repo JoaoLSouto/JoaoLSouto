@@ -12,16 +12,15 @@ Machine Learning e Data Science. <br>
 ![reactn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoLSouto)](https://github.com/JoaoLSouto/github-profile-trophy) -->
+
 
 ### Contato:
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.joaolsouto@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-souto/)
 <br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoLSouto)](https://github.com/JoaoLSouto/github-profile-trophy) -->
-
