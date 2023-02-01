@@ -11,6 +11,7 @@ Em meus estudos e práticas autonomas codifico em especifico na linguagem Pyhton
 ![reactn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br>
+<img style="width: 320px" align="right" src="https://github.com/JoaoLSouto/JoaoLSouto/blob/main/octocat-1675293530259.png">
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
