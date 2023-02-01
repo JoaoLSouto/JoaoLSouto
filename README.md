@@ -14,8 +14,6 @@ Em meus estudos e práticas autonomas codifico em especifico na linguagem Pyhton
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
-<br>
 ### Contato:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.joaolsouto@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-souto/)
