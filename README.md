@@ -12,7 +12,6 @@ Em meus estudos e práticas autonomas codifico em especifico na linguagem Pyhton
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoLSouto&theme=chartreuse-dark&show_icons=true)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoLSouto)](https://github.com/JoaoLSouto/github-profile-trophy) -->
