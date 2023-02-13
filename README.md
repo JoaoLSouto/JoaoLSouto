@@ -1,5 +1,5 @@
 ### Olá, eu sou o João Lucas Souto.
-Atualmente no meu quarto semestre de Análise e Desenvolvimento de Sistemas, com uma grade currícular de tecnologias de Frontend, Backend e Mobile. <br>
+Atualmente no meu quinto semestre de Análise e Desenvolvimento de Sistemas, com uma grade currícular de tecnologias de Frontend, Backend e Mobile. <br>
 Em meus estudos e práticas autonomas codifico em especifico na linguagem Pyhton, estudando e aperfeiçoando minhas habilidades em Desenvolvimento Web e de dados. <br>
 ### Skills
 ![pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
