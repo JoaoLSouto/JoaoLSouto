@@ -1,17 +1,25 @@
 ### Olá, eu sou o João Lucas Souto.
 Atualmente no meu último semestre de Análise e Desenvolvimento de Sistemas, com uma grade currícular de tecnologias de Frontend, Backend e Mobile. <br>
-Em meus estudos e práticas autonomas codifico em especifico na linguagem Pyhton, estudando e aperfeiçoando minhas habilidades em Desenvolvimento Web e de dados. <br>
+No começo de 2023 comecei a por em prática alguns projetos de ReactJS, tal qual sua integração com TypeScript.<br>
+Alguns de meus outros planos para 2023 é começar a estudar algumas linguagens Mobile como Flutter e React Native. <br>
 ### Skills
-![pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-<br>
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![reactn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br>
+![pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 <br>
 <img style="width: 400px" align="right" src="https://github.com/JoaoLSouto/JoaoLSouto/blob/main/octocat-1675293530259.png">
-
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
 <br>
 ### Contato:
