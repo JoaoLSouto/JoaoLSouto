@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Lucas Souto.
 Atualmente no meu último semestre de Análise e Desenvolvimento de Sistemas, com uma grade currícular de tecnologias de Frontend, Backend e Mobile. <br>
-No começo de 2023 comecei a por em prática alguns projetos de ReactJS, tal qual sua integração com TypeScript.<br>
+No início de 2023 comecei a por em prática alguns projetos de ReactJS, tal qual sua integração com TypeScript.<br>
 Alguns de meus outros planos para 2023 é começar a estudar algumas linguagens Mobile como Flutter e React Native. <br>
 ### Skills
 
