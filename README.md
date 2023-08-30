@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Lucas Souto.
 "I hold a degree in Systems Analysis and Development, with a curriculum focused on Frontend, Backend, and Mobile technologies. <br>
 <br>
-After my graduation, I began to specialize in cybersecurity, studying penetration testing, vulnerability analysis, post-exploitation, and other related skills.
+After my graduation, I began to specialize in cybersecurity, studying pentests, vulnerability analysis, post-exploitation, and other related skills.
 <br>
 I am currently studying cybersecurity at <a href="https://www.hackthebox.com/" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HTB Badge"></a>
 <br>
