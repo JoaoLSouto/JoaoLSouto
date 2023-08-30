@@ -3,7 +3,7 @@
 <br>
 After my graduation, I began to specialize in cybersecurity, studying penetration testing, vulnerability analysis, post-exploitation, and other related skills.
 <br>
-I am currently studying cybersecurity at the <a href="https://www.hackthebox.com/" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HTB Badge"></a>
+I am currently studying cybersecurity at <a href="https://www.hackthebox.com/" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HTB Badge"></a>
 <br>
 ### Skills
 
