@@ -1,4 +1,4 @@
-### Olá, eu sou o João Lucas Souto.
+### Hi, I'm João Lucas.
 I hold a degree in Systems Analysis and Development, with a curriculum focused on Frontend, Backend, and Mobile technologies. <br>
 <br>
 After my graduation, I began to specialize in cybersecurity, studying pentests, vulnerability analysis, post-exploitation, and other related skills.<br>
