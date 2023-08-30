@@ -1,10 +1,10 @@
 ### Olá, eu sou o João Lucas Souto.
-Sou graduado Análise e Desenvolvimento de Sistemas,com formação currícular de tecnologias de Frontend, Backend e Mobile. <br>
-No início de 2023 comecei a por em prática alguns projetos de ReactJS, tal qual sua integração com TypeScript.<br>
-Alguns de meus outros planos para 2023 é começar a estudar algumas linguagens Mobile como Flutter e React Native. <br>
-
-studying cybersecurity at ![HTB](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
-
+"I hold a degree in Systems Analysis and Development, with a curriculum focused on Frontend, Backend, and Mobile technologies. <br>
+<br>
+After my graduation, I began to specialize in cybersecurity, studying penetration testing, vulnerability analysis, post-exploitation, and other related skills.
+<br>
+I am currently studying cybersecurity at the <a href="https://www.hackthebox.com/" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HTB Badge"></a>
+<br>
 ### Skills
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
