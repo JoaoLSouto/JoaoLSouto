@@ -2,6 +2,9 @@
 Sou graduado Análise e Desenvolvimento de Sistemas,com formação currícular de tecnologias de Frontend, Backend e Mobile. <br>
 No início de 2023 comecei a por em prática alguns projetos de ReactJS, tal qual sua integração com TypeScript.<br>
 Alguns de meus outros planos para 2023 é começar a estudar algumas linguagens Mobile como Flutter e React Native. <br>
+
+studying cybersecurity at ![HTB](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+
 ### Skills
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
