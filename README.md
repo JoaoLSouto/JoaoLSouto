@@ -9,9 +9,7 @@ I am currently studying cybersecurity at <a href="https://www.hackthebox.com/" t
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br>
 ![pyhton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 <br>
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -19,7 +17,9 @@ I am currently studying cybersecurity at <a href="https://www.hackthebox.com/" t
 <br>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoLSouto&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/JoaoLSouto/github-readme-stats)
 <br>
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.joaolsouto@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-souto/)
 <br>
 <img style="width: 400px" align="center" src="https://github.com/JoaoLSouto/JoaoLSouto/blob/main/pixel.gif">
+<br>
+<br>
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.joaolsouto@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-souto/)
